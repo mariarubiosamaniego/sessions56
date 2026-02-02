@@ -1,6 +1,6 @@
 #session 5
 
-#this session contains:
+#this session contains the following:
     - operators
     - exceptions
     - conditional statements
