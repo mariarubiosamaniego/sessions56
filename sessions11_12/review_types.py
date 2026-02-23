@@ -12,3 +12,5 @@ print(type(["abc", 2]))
 print(type("abc"[2]))
 print(type("abcabcabc".split("a")))
 
+
+

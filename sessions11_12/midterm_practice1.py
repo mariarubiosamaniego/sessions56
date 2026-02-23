@@ -11,6 +11,7 @@ def download_book(url):
     with open("book.txt", "w", encoding="utf-8") as f:
        f.write(response.text)
 
+
 download_book("https://www.gutenberg.org/cache/epub/1342/pg1342.txt")
 
 def get_3_letter_words(book_file):
