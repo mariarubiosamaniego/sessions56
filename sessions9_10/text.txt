@@ -1,0 +1,3 @@
+This is my text file
+I can write whatever
+I will read it in a normal Python file now

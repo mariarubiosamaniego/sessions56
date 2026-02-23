@@ -1,0 +1,4 @@
+Defining a function is useless unless we call them afterwards. It means creating it.
+Calling a function is to execute it.
+
+after defining a function it is very important to add the double points
